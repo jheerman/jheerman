@@ -1,4 +1,6 @@
-<h1>John Heerman</h1>
+## John Heerman
+### DevOps Engineer
+#### Precision Ag and Smart Farming
 
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -27,4 +29,4 @@
 
 Responsible for designing and implementing cloud-based solutions on AWS Cloud Platform. Work with security and cloud engineering teams to manage and optimize cloud-based resources for compliance and governance. Provide technical support to development teams. Research and prototype solutions using the latest reference architecture and best practices from AWS.
 
-I love to read books and listen to music.
+Coding is fun!  I also love to read books and listen to music. 
