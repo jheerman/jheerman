@@ -1,5 +1,5 @@
 ## John Heerman
-### DevOps Engineer
+### DevOps Engineer | System Architect | Developer Advocate
 #### Precision Ag and Smart Farming
 
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
