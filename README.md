@@ -34,8 +34,8 @@ Experience designing and implementing cloud-based solutions on AWS Cloud Platfor
 Coding is fun!  I also love to read books and listen to music. 
 
 ### Connect with me
-[<img align="left" alt="jheerman.com" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][jheerman]
-[<img align="left" alt="jheerman | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="johnheerman.com" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][jheerman]
+[<img align="left" alt="johnheerman | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[jheerman]: https://www.jheerman.com
-[linkedin]: https://linkedin.com/in/jheerman
+[jheerman]: https://www.johnheerman.com
+[linkedin]: https://linkedin.com/in/johnheerman
