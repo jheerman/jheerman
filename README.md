@@ -2,6 +2,8 @@
 ### DevOps Engineer | System Architect | Developer Advocate
 #### Precision Ag and Smart Farming
 
+Hi!  I'm John!  👋
+
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -27,6 +29,13 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-Responsible for designing and implementing cloud-based solutions on AWS Cloud Platform. Work with security and cloud engineering teams to manage and optimize cloud-based resources for compliance and governance. Provide technical support to development teams. Research and prototype solutions using the latest reference architecture and best practices from AWS.
+Experience designing and implementing cloud-based solutions on AWS Cloud Platform. Work with security and cloud engineering teams to manage and optimize cloud-based resources for compliance and governance. Provide technical support to development teams. Research and prototype solutions using AWS reference architecture and best practices.
 
 Coding is fun!  I also love to read books and listen to music. 
+
+### Connect with me
+[<img align="left" alt="jheerman.com" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][jheerman]
+[<img align="left" alt="jheerman | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[jheerman]: https://www.jheerman.com
+[linkedin]: https://linkedin.com/in/jheerman
